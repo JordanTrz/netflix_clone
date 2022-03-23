@@ -1,6 +1,6 @@
 import "./watch.scss";
 import ArrowBackOutlinedIcon from "@mui/icons-material/ArrowBackOutlined";
-import videoPrueba from "../../static/Bootcamp Desarrollo web - G11 - FrontEnd - Sebastian Yabiku-20211202 0035-1.mp4"
+// import videoPrueba from "../../static/Bootcamp Desarrollo web - G11 - FrontEnd - Sebastian Yabiku-20211202 0035-1.mp4"
 
 const Watch = () => {
   return (
@@ -14,7 +14,7 @@ const Watch = () => {
         autoPlay
         progress
         controls
-        src={videoPrueba}
+        // src={videoPrueba}
       />
     </div>
   );
